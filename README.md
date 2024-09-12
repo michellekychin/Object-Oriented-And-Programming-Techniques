@@ -15,8 +15,7 @@ This project demonstrates key object-oriented programming concepts such as encap
 - **Bus Operation View:** Customers can view the operational schedule and routes of buses.
 - **Error Handling:** Robust error handling with exception management.
   
-## Class Diagram
-![Class Diagram](path/to/your/diagram.png)  
+## Class Diagram  
 The system consists of several classes:  
 - **User (Superclass)**: Inherited by `Admin` and `Customer`.
 - **Admin**: Handles system management and transaction viewing.
